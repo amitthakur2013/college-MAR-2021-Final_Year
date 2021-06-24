@@ -1,0 +1,23 @@
+Review of new age technology - Machine Learning
+
+Machine learning is a subdivision of AI in which algorithmic models are trained to perform specific tasks by recognizing and learning patterns from the data it sees, 
+rather than through explicit computer programming by a human expert. This process can be categorized as supervised, semi-supervised or unsupervised, with the most common 
+method being supervised.
+
+Future Directions
+Although early studies assessing the prognostic value of machine learning in dermatology have demonstrated promising outcomes, further research is needed. To address whether 
+the use of ML in predicting outcomes is truly a worthwhile avenue for clinicians to explore, prospective randomized clinical trials are needed.
+
+Machine learning is a quickly advancing field in medicine and can be of great utility to clinicians in the near future, particularly in predicting the prognoses of complex 
+dermatological conditions. As this technology advances, dermatologists will need to develop a foundational understanding of how it works and when it should be appropriately 
+used in their clinical practice.
+
+Our review summarizes the current literature exploring the use of machine learning in predicting various dermatological outcomes. All studies conducted on this topic thus 
+far have demonstrated promising outcomes. During a time where precision medicine is a focus of many clinicians, ML techniques provide a method for dermatologists to more 
+accurately predict the clinical outcomes and prognoses of their patients in a variety of skin conditions.
+
+When compared to traditional statistical methods, which focuses on inference, ML methodology focuses more on prediction (31). This is to say that ML methods aim to anticipate 
+future behavior, rather than just drawing associations between data. ML is also particularly useful when looking at complex and detailed datasets with a large number of input 
+variables. In fact, a larger sample size allows ML algorithms to better make associations within the data and thus, form more accurate outputs (32). Traditional statistical 
+methods were designed to be most accurate and successful with a small to moderate number of input variables. As the number of inputs increases, the statistical models tend to 
+become less precise.
